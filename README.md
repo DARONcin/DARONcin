@@ -1,4 +1,4 @@
-# 👋 Welcome to my GitHub
+# 👋 Greetings 🍊
 
 I'm **Daron Tarín**, a **Full-Stack Developer** passionate about building modern, scalable, and user-friendly applications.
 
